@@ -1,0 +1,9 @@
+<svg id="vuesax_twotone_tick-circle_copy" data-name="vuesax/twotone/tick-circle copy" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18">
+  <g id="vuesax_twotone_tick-circle" data-name="vuesax/twotone/tick-circle">
+    <g id="tick-circle">
+      <path id="Vector" d="M15,7.5A7.5,7.5,0,1,0,7.5,15,7.522,7.522,0,0,0,15,7.5Z" transform="translate(1.5 1.5)" fill="none" stroke="#006148" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Vector-2" data-name="Vector" d="M0,2.122,2.122,4.245,6.375,0" transform="translate(5.813 6.877)" fill="none" stroke="#a5dd23" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke-dasharray="0 0"/>
+      <path id="Vector-3" data-name="Vector" d="M18,0V18H0V0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>
